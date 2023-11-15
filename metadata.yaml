@@ -1,0 +1,26 @@
+_repo: An-introductory-lecture-on-arch0xe6ology-b-Delivered-before-the-University-of-Cambridge_71984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Babington, Churchill
+    gutenberg_agent_id: '56483'
+    url: http://www.gutenberg.org/2009/agents/56483
+description: ''
+gutenberg_issued: '2023-10-29'
+identifiers:
+  gutenberg: '71984'
+language: en
+pgterms:marc905: 20230817172926babington
+pgterms:marc906: '1865'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aCambridge :$bDeighton, Bell, and Co., $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An introductory lecture on archæology : $b Delivered before the University
+  of Cambridge'
+url: http://www.gutenberg.org/ebooks/71984
