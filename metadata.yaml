@@ -1,11 +1,16 @@
 _repo: An-introductory-lecture-on-arch0xe6ology-b-Delivered-before-the-University-of-Cambridge_71984
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71984-h/images/cover.jpg
 creator:
   author:
     agent_name: Babington, Churchill
     gutenberg_agent_id: '56483'
     url: http://www.gutenberg.org/2009/agents/56483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71984#An-introductory-lecture-on-arch0xe6ology-b-Delivered-before-the-University-of-Cambridge
 gutenberg_issued: '2023-10-29'
 identifiers:
   gutenberg: '71984'
